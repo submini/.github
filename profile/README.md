@@ -12,6 +12,11 @@ We’re the upper-tier branch of a two-tier dev network — rising from our root
 </div>
 
 <img src="/assets/mariopuffbanner.png" align="center" width="1600"/>
+<div align="center"> 
+  
+### owner, chief coder, junior artist 
+
+</div>
 
 
 The leader, head honcho of them all. The one who connected his friends whose friendship was created in 2022 & 2023, his oldies in 2021, and his newly-recruited members in 2024 within one ultimate groups system.
@@ -24,12 +29,13 @@ The leader, head honcho of them all. The one who connected his friends whose fri
 - hallwayheat (actual gaming, ex. Steam)
 - toybunny_ (Toy Bonnie, Formerly Twitter)
 - Mario_184 (old, but still used on YouTube)
-- chppyy (obsolete, shorthand of "choppy", from choppyanimations, host of his failed object show)
+- chppyy (obsolete, shorthand of "choppy", from choppyanimation, host of his failed object show)
 
-**Role in *Fulltimate Custom Night*:** owner, chief coder, junior artist  
+
 **First Appearance:** December 10th, 2023  
 **Personality:** casual, analytical, nerdy, kinda fun sometimes, could be annoying at times  
 **Signature Work:** creating FCN and remaking it in GameMaker Studio  
+
 **Inspirations & Influences:**
 - PewDiePie
 - Markiplier
@@ -61,19 +67,29 @@ The leader, head honcho of them all. The one who connected his friends whose fri
 ---
 
 <img src="/assets/un4yabanner2.png" align="center" width="1600"/>
+<div align="center"> 
+  
+### senior producer, junior artist [concept department]
+
+</div>
+
 
 The commonly-called the primary driver for FULLTIMATEformula team ***A Certain Shade of Green***. Very competitive, active, and always aims for P1 every Grand Prix. Currently trilingual; speaks Bangla, English, and is learning French. Has plans to move to Canada some time in the future. His favorite letter in the alphabet is h, just like his personality inspired by Balkan YouTuber *Random Týpek*.
 
 ---
 
 <img src="/assets/interseerbanner.png" align="center" width="1600"/>
+<div align="center"> 
+  
+### junior artist [concept department], junior coder, junior producer
+
+</div>
 
 The secondary driver for FULLTIMATEformula team ***A Certain Shade of Green***. Is Russian, very active, and dislikes misbehavior within the group chat. He is also best buds with UN4YA and the duo is commonly considered having the same mindsets. Currently the *de facto* leader in remaking *Fulltimate Custom Night* in GameMaker Studio.
 
 ### 🤠 about interseer
 
 **Username:** interseer (formerly 4unduck)  
-**Role in FCN:** junior artist [concept department], junior coder, junior producer  
 **First Appearance:** December 10th, 2023  
 **Inspirations:** Games he plays and music he listens to  
 **Catchphrase:** cool (not a big cool-sayer anymore)  
