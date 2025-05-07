@@ -16,7 +16,7 @@ We’re the upper-tier branch of a two-tier dev network — rising from our root
 
 The leader, head honcho of them all. The one who connected his friends whose friendship was created in 2022 & 2023, his oldies in 2021, and his newly-recruited members in 2024 within one ultimate groups system.
 
-### about mariopuff!
+### 🐈 about mariopuff!
 
 **Usernames:**
 - mariopuff (main)
@@ -69,6 +69,8 @@ The commonly-called the primary driver for FULLTIMATEformula team ***A Certain S
 <img src="/assets/interseerbanner.png" align="center" width="1600"/>
 
 The secondary driver for FULLTIMATEformula team ***A Certain Shade of Green***. Is Russian, very active, and dislikes misbehavior within the group chat. He is also best buds with UN4YA and the duo is commonly considered having the same mindsets. Currently the *de facto* leader in remaking *Fulltimate Custom Night* in GameMaker Studio.
+
+### 🤠 about interseer
 
 **Username:** interseer (formerly 4unduck)  
 **Role in FCN:** junior artist [concept department], junior coder, junior producer  
